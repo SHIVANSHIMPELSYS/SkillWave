@@ -1,0 +1,145 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "male",
+    "email": "john.doe@example.com",
+    "designation": "trainer",
+    "password": "password123",
+    "terms": true,
+    "achievements": "Certified React Developer",
+    "experience": 10
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "gender": "female",
+    "email": "alice.johnson@example.com",
+    "designation": "trainer",
+    "password": "password123",
+    "terms": true,
+    "achievements": "Top-rated Angular Instructor",
+    "experience": 8
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "gender": "female",
+    "email": "jane.smith@example.com",
+    "designation": "trainer",
+    "password": "password123",
+    "terms": true,
+    "achievements": "Top-rated Angular Instructor",
+    "experience": 8
+  },
+  {
+    "firstName": "Shivansh",
+    "lastName": "Shukla",
+    "gender": "male",
+    "email": "shivansh.shukla@example.com",
+    "designation": "trainer",
+    "password": "password123",
+    "terms": true,
+    "achievements": "Keynote Speaker at DevCon",
+    "experience": 8
+  },
+  {
+    "firstName": "Shivansh",
+    "lastName": "Shukla",
+    "gender": "male",
+    "email": "shivansh.shukla@example.com",
+    "designation": "trainer",
+    "password": "password123",
+    "terms": true,
+    "achievements": "Top-rated Angular Instructor",
+    "experience": 8
+  },
+  {
+    "firstName": "Shivansh",
+    "lastName": "S",
+    "gender": "male",
+    "email": "shivansh.s@example.com",
+    "designation": "trainer",
+    "password": "password123",
+    "terms": true,
+    "achievements": "Keynote Speaker at DevCon",
+    "experience": 10
+  },
+  {
+    "firstName": "Ram",
+    "lastName": "Kumar",
+    "gender": "male",
+    "email": "ram@gmail.com",
+    "designation": "trainer",
+    "password": "ram@12312",
+    "terms": true,
+    "achievements": "AWS",
+    "experience": 12
+  },
+  {
+    "firstName": "shyam",
+    "lastName": "kumar",
+    "gender": "male",
+    "email": "shyam@gmail.com",
+    "designation": "trainer",
+    "password": "ram@12345",
+    "terms": true,
+    "achievements": "AWS",
+    "experience": 12
+  },
+  {
+    "firstName": "Amit",
+    "lastName": "Shukla",
+    "gender": "male",
+    "email": "amit@gmail.com",
+    "designation": "trainer",
+    "password": "amit@123",
+    "terms": true,
+    "achievements": "Angular expert",
+    "experience": 15
+  },
+  {
+    "firstName": "raj",
+    "lastName": "k",
+    "gender": "male",
+    "email": "raj@gmail.com",
+    "designation": "trainer",
+    "password": "raj@1234",
+    "terms": true,
+    "achievements": "AWS",
+    "experience": 10
+  },
+  {
+    "firstName": "sundaram",
+    "lastName": "r",
+    "gender": "male",
+    "email": "sun@gmail.com",
+    "designation": "trainer",
+    "password": "sun@1234",
+    "terms": true,
+    "achievements": "AWS",
+    "experience": 12
+  },
+  {
+    "firstName": "sneha",
+    "lastName": "agarwal",
+    "gender": "female",
+    "email": "sneha1@gmail.com",
+    "designation": "trainer",
+    "password": "sneha@123",
+    "terms": true,
+    "achievements": "AWS",
+    "experience": 7
+  },
+  {
+    "firstName": "shyam",
+    "lastName": "kumar",
+    "gender": "male",
+    "email": "shyam1@gmail.com",
+    "designation": "trainer",
+    "password": "shyam@123",
+    "terms": true,
+    "achievements": "AWS certifications",
+    "experience": 10
+  }
+]
